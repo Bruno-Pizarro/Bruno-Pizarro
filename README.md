@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm **Bruno Pizarro** and I'm a Software Engineer, I really like to **work hard** and I feel so comfortable with any programming work. In short, I will always finish my work cleaning even the smallest detail, I consider that **I have great discipline** despite my young age.
+I'm **Bruno Pizarro** and I'm a Full Stack Web Developer, I really like to **work hard** and I feel so comfortable with any programming work. In short, I will always finish my work cleaning even the smallest detail, I consider that **I have great discipline** despite my young age.
 <br>
 <br>
 🔧Languages and tools:🔧
