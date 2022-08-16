@@ -2,8 +2,11 @@
   I'm **Bruno Pizarro** and I'm a Full Stack Web Developer, I really like to **work hard** and I feel so comfortable with any programming work. In short, I will always finish my work cleaning even the smallest detail, I consider that **I have great discipline** despite my young age.
 <br>
 Do you want to know how it feels to have an efficient worker? Contact me!
+<br>
   📧Email: pizarrobrunotrabajo8@gmail.com
+<br>
   📎Linkedin: https://www.linkedin.com/in/bruno-pizarro-full-stack/
+<br>
 <br>
 🔧Languages and tools:🔧
 <br>
