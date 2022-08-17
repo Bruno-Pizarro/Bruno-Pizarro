@@ -32,6 +32,12 @@ Do you want to know how it feels to have an efficient worker? Contact me!
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 <br>
 <br>
+⭐Stats:
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Pizarro&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Pizarro&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <p width=fit-content >
   <img alt="visitors"   src="https://visitor-badge.glitch.me/badge?page_id=Bruno-Pizarro.Bruno-Pizarro" />
   <img alt="ViewCount"  src="https://views.whatilearened.today/views/github/Bruno-Pizarro/Bruno-Pizarro.svg" />
