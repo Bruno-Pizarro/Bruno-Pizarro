@@ -12,17 +12,18 @@ Do you want to know how it feels to have an efficient worker? Contact me!
 🔧Languages and tools:🔧
 <br>
 <br>
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=typescript)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-![Redux](https://img.shields.io/badge/-Redux-gray?style=flat-square&logo=Redux)
+![Redux](https://img.shields.io/badge/-Redux-563D7C?style=flat-square&logo=Redux)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-![Express.js](https://img.shields.io/badge/-Express-gray?style=flat-square&logo=expressjs)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-gray?style=flat-square&logo=postgresql)
-![Sequelize](https://img.shields.io/badge/-Sequelize-gray?style=flat-square&logo=sequelize)
+![Sequelize](https://img.shields.io/badge/-Sequelize-white?style=flat-square&logo=sequelize)
 <br>
 <br>
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
@@ -38,7 +39,6 @@ Do you want to know how it feels to have an efficient worker? Contact me!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Pizarro&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p width=fit-content >
-  <img alt="visitors"   src="https://visitor-badge.glitch.me/badge?page_id=Bruno-Pizarro.Bruno-Pizarro" />
   <img alt="ViewCount"  src="https://views.whatilearened.today/views/github/Bruno-Pizarro/Bruno-Pizarro.svg" />
 </p>
 
