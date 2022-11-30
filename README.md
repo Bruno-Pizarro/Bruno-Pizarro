@@ -36,7 +36,7 @@ Do you want to know how it feels to have an efficient worker? Contact me!
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Pizarro&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Pizarro&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Pizarro&layout=compact&theme=dracula)
 
 <p width=fit-content >
   <img alt="ViewCount"  src="https://views.whatilearened.today/views/github/Bruno-Pizarro/Bruno-Pizarro.svg" />
