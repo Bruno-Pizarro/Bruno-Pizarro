@@ -1,5 +1,5 @@
 ### Hi there! 👋
-![bannergithub](https://user-images.githubusercontent.com/100056355/185244093-1893c6e5-1236-4511-b6e1-6d2afacc6614.jpg)
+![Bruno-Pizarro](https://user-images.githubusercontent.com/100056355/210019526-5609c78b-b256-4726-b39b-5bc23689d623.jpg)
   I'm **Bruno Pizarro** and I'm a Full Stack Web Developer, I really like to **work hard** and I feel so comfortable with any programming work. In short, I will always finish my work cleaning even the smallest detail, I consider that **I have great discipline** despite my young age.
 <br>
 Do you want to know how it feels to have an efficient worker? Contact me!
