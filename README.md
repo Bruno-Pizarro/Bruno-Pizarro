@@ -31,12 +31,6 @@ Do you want to know how it feels to have an efficient worker? Contact me!
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 <br>
-<br>
-⭐Stats:
-<br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Pizarro&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-Pizarro&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
