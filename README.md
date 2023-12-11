@@ -32,12 +32,6 @@ Do you want to know how it feels to have an efficient worker? Contact me!
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 <br>
 
-
-
-<p width=fit-content >
-  <img alt="ViewCount"  src="https://views.whatilearened.today/views/github/Bruno-Pizarro/Bruno-Pizarro.svg" />
-</p>
-
 <!--
 Did you lose something?....
 -->
